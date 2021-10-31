@@ -11,7 +11,7 @@ For this project I'm working with HTML, CSS, a teeny tiny bit of ruby, JavaScrip
 I also love doing contributions to projects that I love and use daily.
 ___
 
-### Some useful open source projects that I use daily:
+### Some open source projects that I use daily:
 <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png"> [VSCodium](https://github.com/VSCodium/vscodium): binary releases of VS Code without Microsoft branding/telemetry/licensing
 
 <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Brave_icon_lionface.png"> [Brave](https://github.com/brave): privacy-focused browser based on Chromium
