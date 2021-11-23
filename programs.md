@@ -13,11 +13,21 @@
 
 <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/64px-Firefox_logo%2C_2019.svg.png"> [Mozilla Firefox](https://hg.mozilla.org/mozilla-central/): it's Firefox, I don't know what to put here, it's just a good browser
 
+<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tor_Browser_icon.svg/1024px-Tor_Browser_icon.svg.png"> [Tor Browser](https://gitlab.torproject.org/tpo/applications/tor-browser): Tor, I guess? You know what this is.
+
 <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UBlock_Origin.svg/64px-UBlock_Origin.svg.png"> [uBlock Origin](https://github.com/gorhill/uBlock): effectient wide-spectrum blocker for various modern browsers
 
-<img height="16" src="https://www.localcdn.org/img/logo-protected.svg"> [LocalCDN](https://codeberg.org/nobody/LocalCDN): fork of Decentraleyes, emulates Content Delivery Networks to improve online privacy
+<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Decentraleyes_logo.png"> [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes): emulates Content Delivery Networks to improve online privacy
 
 <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Stylus_logo.png"> [Stylus](https://github.com/openstyles/stylus): fork of Stylish, a user styles manager
+
+<img height="16" src="https://raw.githubusercontent.com/bitwarden/brand/master/icons/32x32.png"> [Bitwarden](https://github.com/bitwarden/browser): fork of Stylish, a user styles manager
+
+### On my phone (iPhone):
+
+<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Signal-Logo.svg/64px-Signal-Logo.svg.png"> [Signal](https://github.com/signalapp/Signal-iOS): native, lightweight and secure one-time-password client
+
+<img height="16" src="https://raw.githubusercontent.com/raivo-otp/ios-application/master/Assets/app-icon.png"> [Raivo OTP](https://github.com/raivo-otp/ios-application): native, lightweight and secure one-time-password client
 
 ### On my Raspberry Pi:
 
