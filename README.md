@@ -5,7 +5,7 @@ I really don't have much to say, just take a look around my profile.
 ___
 
 ### What I'm familiar with:
-I'm mainly working for all technical related projects for [@Compliance-Resource-Pack](https://github.com/Compliance-Resource-Pack), a resource pack which doubles and/or quadruples the texture resolution of Minecraft and possibly other games in the future.
+I'm mainly working for all technical related projects for [@Faithful-Resource-Pack](https://github.com/Faithful-Resource-Pack), a resource pack which doubles and/or quadruples the texture resolution of Minecraft and possibly other games in the future.
 For this project I'm working with HTML, CSS, a teeny tiny bit of ruby, JavaScript using Node.js and various other things related to websites, bots, automation and apps.
 
 I also love doing contributions to projects that I love and use daily.
